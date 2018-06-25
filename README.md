@@ -1,4 +1,4 @@
-#VF
+# VF
 # victor_configurar_osciloscopio_PC
 
 Objetivo: Desenvolver um software para configurar o osciloscópio via PC, com obtenção de curvas de medidas.
@@ -7,14 +7,19 @@ Motivação do projeto: Criar um ambiente melhor e menos complexo no PC para a o
 
 Função: Pela porta COM do PC receber as informações e enviar os comandos, utilizando a sintaxe da linguagem do próprio oscilocópio, para configurar e pegar os dados da curva de medida.
 
-#Fluxograma:
+# Fluxograma:
 
-![nome qualquer](Fluxograma_osciloscópio_VF.png)
+![nome qualquer](Fluxograma_osciloscopio_VF.png)
 
-#Diagrama de Classe:
+# Diagrama de Classe:
 
 ![nome qualquer](Diagrama_de_classes_VF.png)
 
+# Esboço da GUI:
+
+![nome qualquer](Esboço.png)
+
+O código está comentado.
 #TRABALHO DA VE
 # victor_configurar_osciloscopio_PC
 
