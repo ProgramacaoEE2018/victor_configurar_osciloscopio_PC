@@ -20,7 +20,8 @@ Função: Pela porta COM do PC receber as informações e enviar os comandos, ut
 ![nome qualquer](Esboço.png)
 
 O código está comentado.
-#TRABALHO DA VE
+
+# TRABALHO DA VE
 # victor_configurar_osciloscopio_PC
 
 Objetivo: Desenvolver um software para configurar o osciloscópio via PC, com obtenção de curvas de medidas.
